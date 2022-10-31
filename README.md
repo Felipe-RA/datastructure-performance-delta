@@ -3,7 +3,7 @@ A small script and notebook to check the performance of some data structure sort
 
 ## Instructions
 
-1. Download .py script and execute it.
+1. Download **perf_script.py** script and execute it.
 2. Test results will be reported as a plain text file available at the same directory on which the script was run.
 
 Alternatively, you can use the "Run in Colab Button".
