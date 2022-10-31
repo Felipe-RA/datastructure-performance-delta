@@ -10,4 +10,4 @@ Alternatively, you can use the "Run in Colab Button".
 
 Keep in mind that the test takes about ~12 minutes to run
 
-Special thanks for the people at [**Australian National University - Department of Quantum Science**](https://anuquantumoptics.org/) for keeping their API open to the public!
+Special thanks to the people at [**Australian National University - Department of Quantum Science**](https://anuquantumoptics.org/) for keeping their API open to the public!
